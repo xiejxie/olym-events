@@ -1,0 +1,11 @@
+#line
+  {
+    width: 100%;
+    margin: 20px 0;
+    height: 300px;
+  }
+.old {
+  stroke: lightgrey;
+  stroke-dasharray: 5;
+  stroke-dashoffset: 5;
+}
